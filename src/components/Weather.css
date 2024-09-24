@@ -129,7 +129,7 @@
   }
 
   .search_bar input {
-    width: 150px;
+    width: 200px;
     font-size: 14px;
   }
 
@@ -165,7 +165,7 @@
   }
 
   .search_bar input {
-    width: 130px; /* Narrow input field for small screens */
+    width: 200px; /* Narrow input field for small screens */
     font-size: 12px;
   }
 
