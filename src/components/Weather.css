@@ -166,7 +166,7 @@
 
   .search_bar input {
     width: 200px; /* Narrow input field for small screens */
-    font-size: 12px;
+    font-size: 15px;
   }
 
   .search_bar img {
